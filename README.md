@@ -1,1 +1,2 @@
-Car Sharing Database
+# Car Sharing Database
+Project Assignment for the Database Exam
